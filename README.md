@@ -1,4 +1,8 @@
-# gobbit
+<p align="center">
+<img src="logo.png" alt="gourl" title="gourl" />
+</p>
+
+---
 
 ![build](https://github.com/odair-pedro/gobbit/workflows/build/badge.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/odair-pedro/gobbit/badge.svg?branch=master)](https://coveralls.io/github/odair-pedro/gobbit?branch=master)
